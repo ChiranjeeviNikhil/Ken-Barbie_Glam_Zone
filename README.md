@@ -1,10 +1,10 @@
-Here’s the updated README for your project, now called **Ken & Barbie Glow Zone**:
+Here’s the updated README for your project, now called **Ken & Barbie Glam Zone**:
 
 ---
 
-# Ken & Barbie Glow Zone
+# Ken & Barbie Glam Zone
 
-Welcome to **Ken & Barbie Glow Zone**, a playful photo-sharing platform where users can explore and upload Ken and Barbie-themed images. This is my first full-stack web application using HTML, CSS, JavaScript, Node.js, and MongoDB.
+Welcome to **Ken & Barbie Glam Zone**, a playful photo-sharing platform where users can explore and upload Ken and Barbie-themed images. This is my first full-stack web application using HTML, CSS, JavaScript, Node.js, and MongoDB.
 
 ---
 
@@ -42,8 +42,8 @@ To run this project locally, you need:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ChiranjeeviNikhil/Ken&Barbie_Glow_Zone.git
-   cd Ken&Barbie_Glow_Zone
+   git clone https://github.com/ChiranjeeviNikhil/Ken&Barbie_Glam_Zone.git
+   cd Ken&Barbie_Glam_Zone
    ```
 
 2. **Install Dependencies**:
@@ -84,6 +84,6 @@ This project is licensed under the MIT License.
 
 ---
 
-Thank you for checking out **Ken & Barbie Glow Zone**! ✨
+Thank you for checking out **Ken & Barbie Glam Zone**! ✨
 
 ---
