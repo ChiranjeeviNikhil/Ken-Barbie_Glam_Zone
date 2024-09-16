@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    background-image: url("barbie.jpg");
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 3%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    height: 200vh;
+    align-items: center;
+    flex-direction: column;
+    
+}
+form{
+    background-color: skyblue;
+    padding-left:3% ;
+}
+.wrapper i{
+    color: purple;
+    size: 10%;
+}
+form h1{
+    font-style: italic;
+    color: purple;
+}
+h1:hover{
+    color:pink;
+}
+.wrapper i:hover{
+    color: pink;
+}
+.wrapper a{
+    text-decoration: none;
+    color: pink;
+}
+.wrapper a:hover{
+    text-decoration: underline;
+    color: purple;
+}
+.wrapper .btn{
+    background-color: pink;
+    color: purple;
+}
+.wrapper .btn:hover{
+       background-color: purple;
+       color: pink;
+}
+
+h1{
+    font-style: italic;
+}
+
+.wrapper2 #one{
+    position:fixed;
+    top:0;
+    display: inline-block;    
+}
+.collapse navbar-collapse{
+    justify-content: right;
+}
+.input-box input{
+    width: 90%;
+}
+p{
+    color: purple;
+}
+.container h2{
+    color: pink;
+}
+.container p{
+    color: purple;
+}
+.col-8 .post p{
+    color: brown;
+}
+.profile{
+    background-image: url("download.jpeg");
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 1%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    height: 200vh;
+    align-items: center;
+    flex-direction: column;
+    
+    
+}
+
