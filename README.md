@@ -42,8 +42,8 @@ To run this project locally, you need:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ChiranjeeviNikhil/Ken&Barbie_Glam_Zone.git
-   cd Ken&Barbie_Glam_Zone
+   git clone https://github.com/ChiranjeeviNikhil/Ken-Barbie_Glam_Zone.git
+   cd Ken-Barbie_Glam_Zone
    ```
 
 2. **Install Dependencies**:
